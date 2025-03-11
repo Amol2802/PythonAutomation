@@ -10,6 +10,9 @@ class loginFourth  (unittest.TestCase):
     def testMethod3(self):
         print("this is loginFourth method 3")
 
+    def testMethod4(self):
+        print("$$$$$$$$$$   this is loginFourth method 4 **********")
+
 
 if __name__== "__main__":
     unittest.main()
