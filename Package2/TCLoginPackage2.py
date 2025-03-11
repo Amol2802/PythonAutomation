@@ -9,6 +9,8 @@ class loginThird (unittest.TestCase):
 
     def testMethod3(self):
         print("this is login Third method 3")
+        print("***********this is login Third method 3***************")
+
 
 
 if __name__== "__main__":

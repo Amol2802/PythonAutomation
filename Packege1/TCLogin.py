@@ -11,6 +11,8 @@ class loginFiirst (unittest.TestCase):
         self.assertTrue(True)
     def testMethod3(self):
         print("this is login Fiirst method 3")
+
+        print("mbjsgcbhhgthis is login Fiirst method 3")
         self.assertTrue(True)
 
 if __name__== "__main__":

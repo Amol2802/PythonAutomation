@@ -50,6 +50,8 @@ obj2=Student("mangesh", "Nikam",103)
 obj.display()
 obj1.display()
 obj2.display()
+obj2.display()
+obj2.display()
 
 obj2.stdID=110
 obj2.display()
